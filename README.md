@@ -1,4 +1,4 @@
-# UiPath RPA Application - Udemy Course Scraper
+# UiPath RPA Application 
 **Overview**
 This UiPath RPA (Robotic Process Automation) application is designed to automate the process of retrieving information about Udemy courses based on incoming emails. The application listens for emails with specific subjects and attachments, extracts data containing course names and prices, scrapes details from the Udemy website, performs currency conversion using an API, and organizes the data in an Excel sheet before sending it to the client. Additionally, the robot now includes a feature to check the account login status and log in with robot credentials if necessary.
 
