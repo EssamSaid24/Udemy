@@ -1,0 +1,2 @@
+course name: Flutter
+price: 10 USD
